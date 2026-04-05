@@ -1,7 +1,6 @@
 *{transition: 1s;}
 body{
-    background-color:#fbf7fb;
-}
+    background-color:#fbf7fb;}
 .box{
     width: 1200px;
     margin: 50px auto;}
@@ -13,10 +12,9 @@ body{
     height: 100px;
     width: 100px;
     margin-left: 25px;}
-.logo:hover{
+    .logo:hover{
     transform: rotate(360deg);
-    transition: 3s;
-}
+    transition: 3s;}
 .logo2{
     height: 50px;
     width: 300px;
@@ -31,10 +29,9 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 18px;
     color: white;}
-.logo3:hover{
+    .logo3:hover{
     color: #ff5200;
-    
-}
+    transition: 0.5s;}
 .content{
     width: 100%;
     padding-top: 55px;}
@@ -127,45 +124,39 @@ body{
     padding-right: 10px;}
 .img_logo{
     max-width: 100%;
-transition: 2s;
-}
-.img_logo:hover{
+    transition: 2s;}
+    .img_logo:hover{
     max-width: 100%;
-transform: rotate(360deg);
-transform:scale(1.2);
-transition: 3s;
-}
+    transform: rotate(360deg);
+    transform:scale(1.2);
+    transition: 3s;}
 .fon_img{
     height: 450px;
     width: 595px;
     float: right;
-    background-image: url("img/1-scaled.jpg");
-}
- .fon_img:hover{
+    background-image: url("img/1-scaled.jpg");}
+    .fon_img:hover{
     height: 450px;
     width: 595px;
     float: right;
     background-image: url("img/1-scaled.jpg");
     opacity: 0.7;}
-    .fon_img1{
+.fon_img1{
     height: 450px;
     width: 595px;
     float: right;
-    background-image: url("img/contact.jpg");
-}
- .fon_img1:hover{
+    background-image: url("img/contact.jpg");}
+    .fon_img1:hover{
     height: 450px;
     width: 595px;
     float: right;
-   
     opacity: 0.7;}
-    .fon_img2{
+.fon_img2{
     height: 450px;
     width: 595px;
     float: right;
-    background-image: url("img/vacansion.jpg");
-}
- .fon_img2:hover{
+    background-image: url("img/vacansion.jpg");}
+    .fon_img2:hover{
     height: 450px;
     width: 595px;
     float: right;
@@ -181,22 +172,18 @@ p{
     text-align: justify;}
 .c1{
     height: 50px;
-    width: 100%;
-}
+    width: 100%;}
 .c2{
     height: 400px;
-    width: 100%;
-}
+    width: 100%;}
 .news{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
-    float: left;
-}
+    float: left;}
 .newss{
     float: right;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 30px;
-}
+    font-size: 30px;}
 .news1{
     height: 200px;
     width: 330px;
@@ -204,8 +191,7 @@ p{
     margin-top: 100px;
     float: left;
     margin-left: 55px;
-    border-radius: 5px;
-}
+    border-radius: 5px;}
 .news2{
     height: 200px;
     width: 330px;
@@ -213,8 +199,7 @@ p{
     margin-top: 100px;
     float: right;
     margin-right: 50px;
-    border-radius: 5px;
-}
+    border-radius: 5px;}
 .news3{
     height: 200px;
     width: 330px;
@@ -222,70 +207,57 @@ p{
     margin-top: 100px;
     float: right;
     margin-right: 50px;
-    border-radius: 5px;
-}
+    border-radius: 5px;}
 .functional{
-    
     height: 100px;
-    width: 1200px;
-}
+    width: 1200px;}
 .fun_text{
     height: 100px;
     width: 500px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 40px;
-}
+    font-size: 40px;}
 .functional1{
     height: 100px;
-    
-    width: 1200px;
-}
+    width: 1200px;}
 .fun_1{
     height: 150px;
     width: 200px;
     background-color: black;
     float: left;
-    margin-right: 50px;
-}
+    margin-right: 50px;}
 .fun_2{
     height: 150px;
     width: 200px;
     background-color: black;
-    float: right;
-}
+    float: right;}
 .pro_club{
     width: 100%;
     height: 600px;
-    margin-top: 200px;
-}
+    margin-top: 200px;}
 .pro_photo{
     width: 39.7%;
     height: 600px;
     background-color: black;
-    float: left;
-}
+    float: left;}
 .pro_text{
     width: 60%;
     height: 600px;
     float: right;
     background-color:#fbf7fb;
-    margin-left: 3px;
-}
+    margin-left: 3px;}
 .pro_text1{
     height: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
     width: 90%;
-    margin-left: 20px;
-}
+    margin-left: 20px;}
 .pro_text2{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     color:rgb(68, 68, 68);
     width: 90%;
     margin-left: 20px;
-    text-align: justify;
-}
+    text-align: justify;}
 .pro_text3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
@@ -296,46 +268,35 @@ p{
     height: 40px;
     color: #ffffff;
     text-align:center;
-    padding-top: 15px;
-}
+    padding-top: 15px;}
 .pro_text3:hover{
     color: #ff5200;
     border-radius: 10px;
     background-color: #94527188;
-    box-shadow: 0 0 20px 10px rgba(224, 64, 230, 0.705), 0 0 40px 20px rgba(78, 230, 64, 0.555);
-}
+    box-shadow: 0 0 20px 10px rgba(224, 64, 230, 0.705), 0 0 40px 20px rgba(78, 230, 64, 0.555);}
 .choose{
     width: 100%;
     height: 350px;
-    margin-top: 50px;
-}
+    margin-top: 50px;}
 .choose_text01{
     height: 100px;
     width: 500px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 25px;
-    
-}
+    font-size: 25px;}
 .choose_photo{
     height: 250px;
     width: 200px;
     background-color: black;
     float: left;
-    margin-right: 50px;
-}
+    margin-right: 50px;}
 .choose_photo1{
     height: 250px;
     width: 200px;
     background-color: black;
-    float: right;
-}
+    float: right;}
 .choose_text02{
-    height: 100px;
-    
-}
+    height: 100px;}
 .color_h{
-    color: palevioletred;
-}
+    color: palevioletred;}
 .text_prozorist{
-    color: rgb(70, 70, 70);
-}
+    color: rgb(70, 70, 70);}

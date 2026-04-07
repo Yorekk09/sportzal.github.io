@@ -128,7 +128,7 @@ body{
     .img_logo:hover{
     max-width: 100%;
     transform: rotate(360deg);
-    transform:scale(1.2);
+    transform: scale(1.2);
     transition: 3s;}
 .fon_img{
     height: 450px;
@@ -161,6 +161,39 @@ body{
     width: 595px;
     float: right;
     opacity: 0.7;}
+.fon_img3{
+    height: 450px;
+    width: 595px;
+    float: right;
+    background-image: url("img/zal_time.jpg")}
+    .fon_img3:hover{
+    height: 450px;
+    width: 595px;
+    float: right;
+    opacity: 0.7;
+}
+.fon_img4{
+    height: 450px;
+    width: 595px;
+    float: right;
+    background-image: url("img/zal_time.jpg")}
+    .fon_img4:hover{
+    height: 450px;
+    width: 595px;
+    float: right;
+    opacity: 0.7;
+}
+.fon_img5{
+    height: 450px;
+    width: 595px;
+    float: right;
+    background-image: url("img/zal_time.jpg")}
+    .fon_img5:hover{
+    height: 450px;
+    width: 595px;
+    float: right;
+    opacity: 0.7;
+}
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(0, 0, 0);

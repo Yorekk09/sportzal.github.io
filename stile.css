@@ -112,18 +112,28 @@ body{
     height: 450px;
     width: 100%;}
 .box_text{
+    height: 140px;
     width: 575px;
     margin-left: 10px;}
 .zagolovok{
     color: rgb(0, 0, 0);
     margin-bottom: 80px;}
 .zagolovok1{
-    height: 146px;
+    height: 130px;
+    
     background-image: url("img/zagolovok1.png");
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 0px;
-    color: cornflowerblue;}
+    
+    padding-top: 2px;
+    }
+    .text_next{
+       color: white;
+    font-size: 20px;
+    text-align: justify;
+    width: 430px;
+    height: 130px;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
 .img_logo{
     max-width: 100%;
     transition: 2s;}

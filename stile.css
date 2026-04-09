@@ -121,7 +121,9 @@ body{
     height: 146px;
     background-image: url("img/zagolovok1.png");
     padding-left: 10px;
-    padding-right: 10px;}
+    padding-right: 10px;
+    padding-top: 0px;
+    color: cornflowerblue;}
 .img_logo{
     max-width: 100%;
     transition: 2s;}
@@ -224,7 +226,10 @@ p{
     margin-top: 100px;
     float: left;
     margin-left: 55px;
-    border-radius: 5px;}
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: white;}
 .news2{
     height: 200px;
     width: 330px;
@@ -255,14 +260,22 @@ p{
 .fun_1{
     height: 150px;
     width: 200px;
-    background-color: black;
+    background-color: rgb(65, 57, 57);
     float: left;
-    margin-right: 50px;}
+    margin-right: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(220, 215, 215);
+    text-align:center;}
 .fun_2{
     height: 150px;
     width: 200px;
-    background-color: black;
-    float: right;}
+    background-color: rgb(65, 57, 57);
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(220, 215, 215);
+    text-align:center;}
 .pro_club{
     width: 100%;
     height: 600px;
